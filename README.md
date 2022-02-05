@@ -1,5 +1,5 @@
 # .stoz Image Format (version 2)
--------
+
 
 This is a joke file format that I made while bored.
 Stoz supports animated images and both lossless and lossy compression.
