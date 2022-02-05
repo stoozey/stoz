@@ -8,3 +8,7 @@ py/debug/*
 __pycache__/
 *.py[cod]
 *$py.class
+
+# cs
+cs/stoz/bin/
+cs/stoz/obj/
