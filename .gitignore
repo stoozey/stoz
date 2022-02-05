@@ -1,3 +1,10 @@
 todo.txt
 
+.idea/
+
+# python
 py/debug/*
+
+__pycache__/
+*.py[cod]
+*$py.class
